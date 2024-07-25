@@ -31,3 +31,4 @@ This repository contains the backend server for interacting with the OpenAI API.
     ```bash
    npm run server
    ```
+4. **Start the [Web App](https://github.com/snadering/AI-Assistant-Frontend#readme)**
